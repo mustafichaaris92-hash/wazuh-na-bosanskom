@@ -1,11 +1,4 @@
 # wazuh-na-bosanskom
-Evo prijedloga kako da ovaj tekst zvuči "brutalno dobro" – profesionalno, moderno i strukturirano poput vrhunskih *open-source* repozitorija na GitHubu. Tekst je prilagođen tako da jasno komunicira ozbiljnost projekta, pokriva sve napredne funkcionalnosti koje si naveo i zadržava pažnju čitaoca.
-
-Evo kako bi to moglo izgledati:
-
----
-
-# Wazuh na Bosanskom 🛡️
 
 **Praktični SIEM i XDR vodiči na bosanskom jeziku, uz korištenje industrijskih engleskih termina.**
 
